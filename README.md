@@ -11,3 +11,6 @@ For (Windows/Linux)
 `no` more info it's clean code :]
 
 # screens
+<img src="./Smtp-view.png">
+<img src="./smtp-view-2.png">
+<img src="./smtp-view-3.png">
