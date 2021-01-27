@@ -9,6 +9,27 @@ this tool can work as will (Cli/Gui)
 For (Windows/Linux)
 
 `no` more info it's clean code :]
+# work
+@CLI:
+```bash
+main.py -m anasybal@gmail.com
+anasybal@gmail.com is valid
+```
+or
+```bash
+main.py -ml ./list.txt
+anasybal@gmail.com is valid
+anasybal222@gmail.com is not valid
+admin@ssss.com is not valid
+```
+
+@GUI:
+```bash
+main.py
+```
+just that :)
+
+
 # API
 ```python
 import requests
